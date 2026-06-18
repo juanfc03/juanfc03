@@ -9,7 +9,7 @@ Me especializo en diseñar plataformas web sólidas y de arquitectura limpia. Di
 
 ---
 
-## Proyectos destacados eimpacto
+## Proyectos destacados e impacto
 
 ### 🚗 CarAI — Plataforma E-commerce con Asistente de IA (TFG)
 Un sistema de compraventa y reserva de vehículos listo para producción que sustituye los buscadores rígidos tradicionales por una experiencia conversacional fluida.
@@ -28,7 +28,7 @@ Integración en el equipo de desarrollo trabajando directamente sobre entornos y
 
 ---
 
-## Ecosistema Técnico
+## Ecosistema técnico
 
 ### Lenguajes y backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
