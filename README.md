@@ -1,67 +1,60 @@
 # Hola, soy Juan Fernández Ceacero 👋
 
-Ingeniero informático especializado en desarrollo full-stack, con formación en arquitectura de software, optimización de rendimiento e integración de sistemas basados en inteligencia artificial.
+Desarrollador full-stack recién graduado en Ingeniería Informática, especializado en desarrollo backend, frontend e integración de IA en flujos de desarrollo. Busco mi primera oportunidad como desarrollador junior, en DevOps o como consultor tecnológico.
 
-Disfruto trabajando en todo el ciclo del software: desde modelar la base de datos y asegurar el backend, hasta refinar interfaces accesibles y reactivas en el frontend. Mi enfoque técnico busca equilibrio entre velocidad de entrega, seguridad y mantenibilidad del código a largo plazo. Me adapto con rapidez a nuevas tecnologías y stacks según las necesidades de cada proyecto. Como recién graduado, estoy abierto a cualquier oportunidad donde pueda aportar y seguir creciendo, incluyendo roles de consultoría tecnológica, apoyándome en mi formación en gestión de proyectos, calidad del software y auditoría informática.
+## 🚀 Proyectos destacados
 
-* **Mi enfoque:** desarrollo full-stack, arquitectura limpia y flujos de trabajo con agentes de IA.
-* **Filosofía de trabajo:** pragmático y orientado al producto. No busco que el código solo funcione; me importa que sea legible y escalable para el equipo.
+**CarAI (TFG)** — Web de venta de coches con asistente virtual conversacional basado en RAG, usando PostgreSQL/pgvector con indexación HNSW para búsqueda semántica. Incluye pasarela de pagos con Stripe y notificaciones por correo. Nota: 9/10.
 
----
+**Sitios web de alto rendimiento** — Desarrollo de páginas estáticas con Astro y Tailwind CSS para clientes reales, alcanzando 100/100 en Google Lighthouse.
 
-## Proyectos destacados e impacto
+**Portfolio personal** — Diseño generado con IA (Google Stitch) e integrado en el código mediante un agente conectado por protocolo MCP.
 
-### 🚗 CarAI — plataforma e-commerce con asistente de IA (TFG)
-Sistema de compraventa y reserva de vehículos que sustituye los buscadores rígidos tradicionales por una experiencia conversacional fluida.
-* **Impacto técnico:** implementación de búsqueda semántica e híbrida para consultas en lenguaje natural, arquitectura de colas asíncronas para la gestión de reservas, integración de pasarela de pagos con Stripe y capas activas de seguridad contra vulnerabilidades críticas.
-* **Stack:** Laravel, Livewire, PostgreSQL, Tailwind CSS, Prism PHP.
+**Pokédex (en desarrollo)** — Proyecto personal en React para practicar gestión de estado y componentes reutilizables.
 
-### ⚡ Arquitectura web de alto rendimiento
-Desarrollo de sitios web a medida para clientes profesionales, priorizando la experiencia de usuario y la optimización en motores de búsqueda.
-* **Impacto técnico:** consecución de puntuaciones de 100/100 en Lighthouse, estructuración de metadatos JSON-LD para SEO on-page, accesibilidad completa y gestión segura de formularios sin servidor.
-* **Stack:** Astro, Tailwind CSS, Netlify.
+**Innovation Studio — Prácticas** — Desarrollo y mantenimiento de aplicaciones PHP/Laravel, incluyendo migración de proyectos heredados a versiones actuales del framework.
 
-### 💼 Innovation Studio (desarrollador de software — prácticas)
-Integración en el equipo de desarrollo trabajando directamente sobre entornos y proyectos reales en producción.
-* **Impacto técnico:** migración de sistemas legados a versiones modernas del framework, optimización de consultas de base de datos, integración de nuevas funcionalidades y mantenimiento de un flujo de trabajo riguroso con Git.
-* **Stack:** PHP, Laravel, Git.
+## 🛠️ Tecnologías
 
----
+**Lenguajes**
 
-## Ecosistema técnico
-
-### Lenguajes y backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend y reactividad
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BEC7D?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 
-### Datos, IA y sistemas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Bases de datos**
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps y Cloud**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RAG Architecture](https://img.shields.io/badge/Arquitectura__RAG-Sistemas__IA-orange?style=for-the-badge)
-![Agentes de IA](https://img.shields.io/badge/Agentes__de__IA-Inteligencia__Artificial-purple?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+**IA**
 
-## Más allá de la pantalla
+![RAG](https://img.shields.io/badge/RAG-Arquitectura-orange?style=for-the-badge)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-MCP-purple?style=for-the-badge)
 
-Además de la ingeniería de software, soy un auténtico entusiasta del hardware de PC: monto, mantengo y optimizo equipos en mi tiempo libre. Fuera del entorno digital, me apasiona entrenar e ir al gimnasio, un hábito que me ayuda a mantener la constancia, el enfoque y un estilo de vida activo.
+## 📫 Contacto
 
----
-
-## Contacto
-
-* **Email:** [juanf.ceacero@gmail.com](mailto:juanf.ceacero@gmail.com)
-* **LinkedIn:** [linkedin.com/in/juan-fernández-ceacero](https://www.linkedin.com/in/juan-fern%C3%A1ndez-ceacero-890627379)
-* **Idiomas:** español (nativo), inglés (B1 Cambridge — Pass with Merit)
+- Email: juanf.ceacero@gmail.com
+- LinkedIn: [linkedin.com/in/juan-fernández-ceacero](https://www.linkedin.com/in/juan-fern%C3%A1ndez-ceacero-890627379)
