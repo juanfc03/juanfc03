@@ -1,6 +1,6 @@
 # Hola, soy Juan Fernández Ceacero 👋
 
-Desarrollador full-stack recién graduado en Ingeniería Informática, especializado en desarrollo backend, frontend e integración de IA en flujos de desarrollo. Busco mi primera oportunidad como desarrollador junior, en DevOps o como consultor tecnológico.
+Desarrollador de software recién graduado en Ingeniería Informática, con base en backend, frontend y un gran interés por la IA aplicada al desarrollo. Busco mi primera oportunidad como desarrollador junior, en DevOps o como consultor tecnológico.
 
 ## 🚀 Proyectos destacados
 
@@ -12,7 +12,7 @@ Desarrollador full-stack recién graduado en Ingeniería Informática, especiali
 
 **Pokédex (en desarrollo)** — Proyecto personal en React para practicar gestión de estado y componentes reutilizables.
 
-**Innovation Studio — Prácticas** — Desarrollo y mantenimiento de aplicaciones PHP/Laravel, incluyendo migración de proyectos heredados a versiones actuales del framework.
+**Innovation Studio — Prácticas** — Desarrollo y mantenimiento de aplicaciones PHP/Laravel, incluyendo la actualización de proyectos existentes a versiones recientes del framework.
 
 ## 🛠️ Tecnologías
 
