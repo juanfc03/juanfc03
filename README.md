@@ -40,7 +40,9 @@ Desarrollador de software recién graduado en Ingeniería Informática, con base
 **IA**
 
 ![RAG](https://img.shields.io/badge/RAG-Arquitectura-orange?style=for-the-badge)
-![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-MCP-purple?style=for-the-badge)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-Automatización-purple?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Modelos_de_Lenguaje-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-IA-teal?style=for-the-badge)
 
 ## 📫 Contacto
 
